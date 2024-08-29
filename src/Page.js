@@ -120,7 +120,7 @@ const InboxPage = () => {
           Logout
         </button>
       )}
-      <h1>React Hooks Quickstart </h1>
+      <h1>Patreum </h1>
 
       <section className="App-section">
         <button
